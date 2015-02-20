@@ -1,0 +1,27 @@
+{
+  "name": "BNLBot",
+  "version": "0.1.0",
+  "description": "It's Been",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thethp/BNLBot.git"
+  },
+  "keywords": [
+    "it's",
+    "been"
+  ],
+  "author": "Todd H. Page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thethp/BNLBot/issues"
+  },
+  "homepage": "https://github.com/thethp/BNLBot",
+  "devDependencies": {
+    "slack-node": "~0.1.0",
+    "ws": "~0.7.1"
+  }
+}
